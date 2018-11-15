@@ -13,6 +13,6 @@
     "moment-timezone": "0.5.13"
   },
   "devDependencies": {
-    "jest": "^19.0.2"
+    "jest": "^23.6.0"
   }
 }
